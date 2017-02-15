@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RD Misas</string>
+    <string name="prqRadarBntText">Buscar Parroquias Alrededor</string>
+    <string name="prqQueryBntText">BUSCAR PARROQUIA POR NOMBRE</string>
+    <string name="prqListaBntText">Mostrar Listado Completo de las Parroquias</string>
+    <string name="prqListaText">Listado Completo de las Parroquias</string>
+    <string name="appVersion">Version 0.0</string>
+    <string name="title_activity_parroquia_mapa">RD Misas</string>
+    <string name="buscarBtn">Buscar</string>
+</resources>
